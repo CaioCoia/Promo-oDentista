@@ -3,8 +3,8 @@
 
 ## Overview ✨
 ## Desktop 💻
-![](/screenshots/screenshot7.png)
-![](/screenshots/screenshot6.png)
+![](/screenshots/7.png)
+![](/screenshots/6.png)
 
 
 
